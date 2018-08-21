@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1534787305162.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4255859798",
+    "id" : "461A1F7B",
+    "lastKnownWriteTime" : 1534787601,
+    "last_content_update" : 1534787601994,
+    "path" : "G:/My Drive/Projects/computation-workshop/Code Ocean/candy_trade-master/code/main.R",
+    "project_path" : "code/main.R",
+    "properties" : {
+        "cursorPosition" : "0,33",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
